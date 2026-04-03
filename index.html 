@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siya & Thasa Cleaning Services</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f4f4f4;
+        }
+
+        header {
+            background: linear-gradient(to right, #0a5c2f, #1b7f3a);
+            color: #d4af37;
+            padding: 30px;
+            text-align: center;
+        }
+
+        header img {
+            width: 180px;
+            display: block;
+            margin: 0 auto 10px;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        .services {
+            background: white;
+            margin: 10px;
+            padding: 15px;
+            border-radius: 10px;
+        }
+
+        footer {
+            background: black;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        .button {
+            display: inline-block;
+            background: #0a5c2f;
+            color: white;
+            padding: 10px 15px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <img src="logo.png" alt="Siya & Thasa Logo">
+    <h1>Siya & Thasa Cleaning Services</h1>
+    <p>Clean. Fresh. Professional.</p>
+</header>
+
+<section>
+    <h2>Our Services</h2>
+
+    <div class="services">
+        <h3>Domestic Cleaning</h3>
+        <p>R300 per day (family house)</p>
+    </div>
+
+    <div class="services">
+        <h3>Deep Cleaning</h3>
+        <p>Windows, carpets, couches, walls</p>
+    </div>
+
+    <div class="services">
+        <h3>Event Cleaning</h3>
+        <p>R1200 per event (under 50 people)</p>
+    </div>
+</section>
+
+<section>
+    <h2>Contact Us</h2>
+    <p>📍 Pietermaritzburg, South Africa</p>
+    <p>📞 067 627 8362</p>
+    <p>✉️ siwe.hlongwana@gmail.com</p>
+
+    <a class="button" href="https://wa.me/27676278362">Chat with us on WhatsApp</a>
+</section>
+
+<footer>
+    <p>© 2026 Siya & Thasa Cleaning Services</p>
+</footer>
+
+</body>
+</html>
